@@ -1,0 +1,6 @@
+# pqiv - Image Viewer RC file
+[options]
+# Bind j to move
+command-1=cpyFile.sh album
+command-2=cpyFile.sh discard
+command-9=rm
