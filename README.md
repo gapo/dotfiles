@@ -4,6 +4,9 @@ This is a random hash-tag collection of my various dotfiles.
 
 # Configs
 
+- [pqivrc](#pqivrc)
+- [rsyncedFiles](#rsyncedFiles)
+
 ## pqivrc
 
 pqivrc is an image viewer. The config file allows an user to set up pqiv to open an album and then do some pre-configured actions.
