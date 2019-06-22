@@ -1,0 +1,1 @@
+/home/gapo/.bin/cpyFile.sh
