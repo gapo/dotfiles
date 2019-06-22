@@ -28,4 +28,5 @@ cd to the directoy.
 If you want to add files - add them to the file listOfFiles.txt.
 Run <code>$runRsync.sh</code>
 See image 
-![rsyncWorkflow][doc/img/rsyncWorkflow.png]
+
+![rsyncWorkflow](doc/img/rsyncWorkflow.png)
